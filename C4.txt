@@ -1,0 +1,6 @@
+Row letter: C
+Seat row: 4
+Ticket price: £200
+Name: dilini
+Surname: Dharmatillaka
+Email: dilini@gmail.com
